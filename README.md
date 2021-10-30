@@ -7,4 +7,5 @@ jeg endrer også noe......
 
 Dette forårsaker en conflict!
 
+Vi lager en ny conflict! 😣
 lager enda en conflict
