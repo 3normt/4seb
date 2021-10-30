@@ -6,3 +6,5 @@ Men nå endrer jeg noe..
 jeg endrer også noe......
 
 Dette forårsaker en conflict!
+
+lager enda en conflict
